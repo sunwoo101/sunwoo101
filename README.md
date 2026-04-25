@@ -60,11 +60,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sunwookim101"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:sun.kim101@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"></a>
-  &nbsp;
-  <a href="https://sunwookim.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Website"></a>
+  <a href="https://linkedin.com/in/sunwookim101"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sun.kim101@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://sunwookim.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
