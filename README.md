@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 
-- 🎓 21 year old developer studying Enterprise Software Development
+- 🎓 22 year old developer studying Enterprise Software Development
 - 💻 Coding since age 13
 - 💰 Earned over $100k from side projects before turning 21
 - 🚀 Focused on shipping fast, learning deeply, and crafting useful software
