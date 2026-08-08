@@ -24,7 +24,7 @@
 
 - 🎓 22 year old developer studying Enterprise Software Development
 - 💻 Coding since age 13
-- 💰 Earned over $100k from side projects before turning 21
+- 💰 Earned over $100k from side projects (starting from 0) before turning 21
 - 🚀 Focused on shipping fast, learning deeply, and crafting useful software
 - 🎮 Rhythm gamer (MaiMai) & Linux enthusiast (Arch btw)
 
@@ -51,9 +51,8 @@
 
 ### 🚧 Current Projects
 
-**🧱 Backy**  
-> A backend-as-a-service for frontend developers.  
-> Logic-layer customization, user variables, SaaS & commerce templates.
+**🧱 TIAGA**  
+> A voice-first control center that dispatches AI coding agents across a fleet of machines
 
 ---
 
